@@ -20,8 +20,11 @@ _Angular, React, SASS| C#, Java, ASP.NET, NancyFx, SQL Server, VBNet | Jenkins, 
 _Python, Django NodeJS, Typescript | Elasticsearch, MySQL, REDIS, RabbitMQ | Angular, AngularJS | TeamCity, Ansible, Docker, Vagrant | AWS EC2, RDS, ElasticCache, SQS, SNS, Lambda, API Gateway, Serverless_
   
 **Full Stack Developer – HPE  - May 2015**
+
 _ASP.NET, C#, NodeJS, MongoDB, REDIS, RabbitMQ | SQL Server | Docker, Vagrant | Jenkins_
- 
+
+***
+
 ### Previous Roles
 - 2007 - 2009 IT Operations Manager - Blemain Finance
 - 2003 - 2007 Development Manager - Paymentshield Ltd.
