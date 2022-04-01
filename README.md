@@ -1,7 +1,12 @@
 # Mark Higham
-mark.higham@gmail.com | 07590 106444 ​| https://github.com/markhigham
+mark.higham@gmail.com | https://github.com/markhigham/cv
 
 SC cleared, experienced, agile software professional and full-stack developer. I've been successful in start-ups and global enterprises. Working hands-on and off using scrum, XP and waterfall approaches.
+
+Twitter: @markhigham
+
+LinkedIn: https://www.linkedin.com/in/markhigham/
+
 
 ***
 
