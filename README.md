@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/markhigham/
 
 ## Contract experience in brief
 
-**Data Engineer - Department for International Trade - May 2019**
+**Data Engineer - Department for International Trade - August 2019**
 
 _Python, Django, Django REST framework, Flask, Postgres, Docker, REDIS, Elasticsearch, Airflow, AWS, Cloudfoundry GOVUK PAAS_
  
