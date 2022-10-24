@@ -53,6 +53,12 @@ _August 2022 - Current_
 
 Building cash handing API's using C# Azure functions with SQL server and Azure DevOps.
 
+My role:
+-   Create work breakdown and support tech lead in creating JIRA tickets.
+-   Build and unit test the C# azure functions and SQL stored procedures
+-   Building Azure DevOps pipelines
+
+
 ### Data Engineer – Department for International Trade (Data Infrastructure)
 _May 2021 – August 2022_
 
