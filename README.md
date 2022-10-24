@@ -12,6 +12,10 @@ LinkedIn: https://www.linkedin.com/in/markhigham/
 
 ## Contract experience in brief
 
+**Contract Developer - Vaultex UK - August 2022**
+
+_C#, .NET core Azure function apps, SQL Server, Specflow_
+
 **Data Engineer - Department for International Trade - August 2019**
 
 _Python, Django, Django REST framework, Flask, Postgres, Docker, REDIS, Elasticsearch, Airflow, AWS, Cloudfoundry GOVUK PAAS_
@@ -43,8 +47,14 @@ _ASP.NET, C#, NodeJS, MongoDB, REDIS, RabbitMQ | SQL Server | Docker, Vagrant | 
 ***
 
 ## Contract Experience in Full
+
+### Contract Developer - Vaultex UK Ltd
+_August 2022 - Current_
+
+...
+
 ### Data Engineer – Department for International Trade (Data Infrastructure)
-_May 2021 – Current_
+_May 2021 – August 2022_
 
 Python, Django, Postgres, Apache Airflow, Docker, AWS Stack
 
@@ -103,7 +113,7 @@ Data analytics is built with python celery workers using a RabbitMQ broker and R
 
 Visitor web site tracking is managed by a native javascript.
 
-Led the design, build and release of the Ruler Analytics 'martec' platform. A distributed system composed of multiple micro-services written in Python running via Celery over a RabbitMQ backbone which operates at 000's EPS.
+I led the design, build and release of the Ruler Analytics platform. A distributed system composed of multiple micro-services written in Python running via Celery over a RabbitMQ backbone which operates at 000's EPS.
 
 Built integrations with key platforms (Salesforce, Microsoft Dynamics, Intercom)
 
