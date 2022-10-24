@@ -51,7 +51,7 @@ _ASP.NET, C#, NodeJS, MongoDB, REDIS, RabbitMQ | SQL Server | Docker, Vagrant | 
 ### Contract Developer - Vaultex UK Ltd
 _August 2022 - Current_
 
-...
+Building cash handing API's using C# Azure functions with SQL server and Azure DevOps.
 
 ### Data Engineer – Department for International Trade (Data Infrastructure)
 _May 2021 – August 2022_
