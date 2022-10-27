@@ -6,6 +6,7 @@ mark.higham@gmail.com | 07457 403216
 Twitter: @markhigham
 
 LinkedIn: https://www.linkedin.com/in/markhigham/
+
 CV: https://github.com/markhigham/cv
 
 ***
