@@ -1,12 +1,12 @@
 # Mark Higham
-mark.higham@gmail.com | https://github.com/markhigham/cv
+mark.higham@gmail.com | 07457 403216
 
  I'm a professional contract full-stack developer. I've been successful delivering quality products in start-ups, government and global enterprises. Working in a pair, solo or part of a large team. Agile, Scrum, XP or waterfall.
 
 Twitter: @markhigham
 
 LinkedIn: https://www.linkedin.com/in/markhigham/
-
+CV: https://github.com/markhigham/cv
 
 ***
 
