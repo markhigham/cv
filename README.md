@@ -1,7 +1,7 @@
 # Mark Higham
 mark.higham@gmail.com | https://github.com/markhigham/cv
 
-SC cleared, experienced, agile software professional and full-stack developer. I've been successful in start-ups and global enterprises. Working hands-on and off using scrum, XP and waterfall approaches.
+ I'm a professional contract full-stack developer. I've been successful delivering quality products in start-ups, government and global enterprises. Working in a pair, solo or part of a large team. Agile, Scrum, XP or waterfall.
 
 Twitter: @markhigham
 
