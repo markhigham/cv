@@ -13,7 +13,11 @@ CV: https://github.com/markhigham/cv
 
 ## Contract experience in brief
 
-**Contract Developer - Vaultex UK - August 2022**
+**Contract Developer - Digi2al Ltd - January 2023**
+
+_Full Stack developer. React, Python: Flask, Django_
+
+**Contract Developer - Vaultex UK - August 2022 - January 2023**
 
 _C#, .NET core Azure function apps, SQL Server, Specflow_
 
@@ -49,8 +53,18 @@ _ASP.NET, C#, NodeJS, MongoDB, REDIS, RabbitMQ | SQL Server | Docker, Vagrant | 
 
 ## Contract Experience in Full
 
+### Contract Developer - Digi2al Ltd
+_January 2023 - Current_
+
+Building and supporting client applications within a secure, air-gapped environment using React and Python.
+
+My role:
+- Build and unit test React Front End features and defects
+- Build and unit test Python Back End features and defects
+- Code reviews
+
 ### Contract Developer - Vaultex UK Ltd
-_August 2022 - Current_
+_August 2022 - January 2023_
 
 Building cash handing API's using C# Azure functions with SQL server and Azure DevOps.
 
