@@ -23,15 +23,15 @@ _C#, .NET core Azure function apps, SQL Server, Specflow_
 
 **Data Engineer - Department for International Trade - August 2019**
 
-_Python, Django, Django REST framework, Flask, Postgres, Docker, REDIS, Elasticsearch, Airflow, AWS, Cloudfoundry GOVUK PAAS_
+_Python, Django, Django REST framework, Flask, Postgres, Docker, REDIS, AG-Grid, Elasticsearch, Airflow, AWS, Cloudfoundry GOVUK PAAS_
  
 **Technical Lead - DXC Enterprise Security Services - March 2017**
 
-_Angular, React, SASS, C#, Java, ASP.NET, NancyFx, SQL Server, VBNet | Jenkins, MSBuild, Docker, Vagrant | ServiceNow_
+_Angular, React, SASS, C#, Java, ASP.NET, NancyFx, SQL Server, AG-Grid, Jenkins, MSBuild, Docker, Vagrant, ServiceNow_
  
 **Technical Lead - Ruler Analytics - Jan 2016**
 
-_Python, Django NodeJS, Typescript | Elasticsearch, MySQL, REDIS, RabbitMQ | Angular, AngularJS | TeamCity, Ansible, Docker, Vagrant | AWS EC2, RDS, ElasticCache, SQS, SNS, Lambda, API Gateway, Serverless_
+_Python, Django NodeJS, Typescript, Elasticsearch, AG-Grid, MySQL, REDIS, RabbitMQ, Angular, AngularJS, TeamCity, Ansible, Docker, Vagrant, AWS EC2, RDS, ElasticCache, SQS, SNS, Lambda, API Gateway, Serverless_
   
 **Full Stack Developer – HPE  - May 2015**
 
@@ -105,7 +105,10 @@ _May 2019 – May 2021_
 
 Python, Django, Flask, Postgres, Docker, REDIS, SharePoint, Azure Devops
 
-The Live Services team manage the ongoing support and maintenance of applications and platforms built within feature teams. For this reason, it requires technical staff with a wide experience of languages, platforms and tools (Python, Django, DRF, PostgreSQL, REDIS, Elasticsearch, Docker, Jenkins, CircleCI, React, Vue, Webpack, NodeJS, SharePoint)
+The Live Services team manage the ongoing support and maintenance of 
+applications and platforms built within feature teams. 
+For this reason, it requires technical staff with a wide experience of 
+languages, platforms and tools (Python, Javascript, Django, DRF, PostgreSQL, REDIS, Elasticsearch, Docker, Jenkins, CircleCI, React, Vue, Webpack, NodeJS, AG-Grid, SharePoint)
 
 Recent projects
 - UKDSE Events Planning - https://github.com/uktrade/ukdse-events
