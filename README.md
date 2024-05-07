@@ -27,7 +27,7 @@ _Python, Django, Django REST framework, Flask, Postgres, Docker, REDIS, Elastics
  
 **Technical Lead - DXC Enterprise Security Services - March 2017**
 
-_Angular, React, SASS| C#, Java, ASP.NET, NancyFx, SQL Server, VBNet | Jenkins, MSBuild, Docker, Vagrant | ServiceNow_
+_Angular, React, SASS, C#, Java, ASP.NET, NancyFx, SQL Server, VBNet | Jenkins, MSBuild, Docker, Vagrant | ServiceNow_
  
 **Technical Lead - Ruler Analytics - Jan 2016**
 
@@ -37,9 +37,21 @@ _Python, Django NodeJS, Typescript | Elasticsearch, MySQL, REDIS, RabbitMQ | Ang
 
 _ASP.NET, C#, NodeJS, MongoDB, REDIS, RabbitMQ | SQL Server | Docker, Vagrant | Jenkins_
 
+**Software Developer - Swinton Insurance - March 2014**
+
+ASP.NET, SQL Server, RabbitMQ, MSMQ, Team City CI/CD
+
+**Solution Architect - SlicedBread - Sept 2013**
+
+ASP.NET, Orchard CMS, SQL Server, User research, Client visits
+
+**Technical Lead - Pulse Umbrella - Sept 2009**
+
+ASP.NET, SQL Server, NodeJS, Excel VBA, Integration with Sage
+
 ***
 
-### Previous Roles
+### Previous Management Roles
 - 2007 - 2009 IT Operations Manager - Blemain Finance
 - 2003 - 2007 Development Manager - Paymentshield Ltd.
 - 2001 - 2003 Project Lead - HBOS plc.
@@ -83,7 +95,7 @@ The Data Infrastructure team build and support the data platforms in use by the 
 
 My role 
 
-- To support developers and data scientists creating Airflow pipelines (written in Python)
+- Build Airflow pipelines - DAGs written in Python to injest "big data" from third party platforms including GCP, AWS S3, Postgres, UK ONS
 - To interact with UX / User Researchers and Designers to build new features
 - Development of front-end features. Django / Python / JavaScript
 
