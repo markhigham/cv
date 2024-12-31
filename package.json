@@ -1,0 +1,19 @@
+{
+  "name": "markhigham-cv",
+  "version": "1.0.0",
+  "description": "My CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "md-to-pdf markhigham.md"
+  },
+  "author": "Mark Higham",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markhigham/markhigham-cv.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
