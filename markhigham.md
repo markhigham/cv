@@ -15,7 +15,7 @@ CV: https://github.com/markhigham/cv
 
 **Contract Developer - Digi2al Ltd - January 2023**
 
-_Full Stack developer. React, Python: Flask, Django_
+_Full Stack developer. Typescript: React, Storybook; Python: Flask, Django; Royal Navy Design system; Palantir Foundry_
 
 **Contract Developer - Vaultex UK - August 2022 - January 2023**
 
@@ -68,12 +68,19 @@ ASP.NET, SQL Server, NodeJS, Excel VBA, Integration with Sage
 ### Contract Developer - Digi2al Ltd
 _January 2023 - Current_
 
-Building and supporting client applications within a secure, air-gapped environment using React and Python.
+Building and supporting client applications within a secure, air-gapped environment using React and Python. 
+
+Developing and supporting the [Royal Navy Design system](https://storybook.design-system.navy.digital.mod.uk/?path=/docs/getting-started--docs)
+
+Design and build of real-time strategic dashboards that query and visualise data from Palantir foundry API. 
+
+Research the use of HTTP3 for data transfer over lossy satellete comminications
 
 My role:
 - Build and unit test React Front End features and defects
 - Build and unit test Python Back End features and defects
 - Code reviews
+
 
 ### Contract Developer - Vaultex UK Ltd
 _August 2022 - January 2023_
