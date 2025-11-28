@@ -15,7 +15,7 @@ CV: https://github.com/markhigham/cv
 
 **Contract Developer - Digi2al Ltd - January 2023**
 
-_Full Stack developer. Typescript: React, Storybook; Python: Flask, Django; Royal Navy Design system; Palantir Foundry_
+_Full Stack developer. Typescript: React/NextJS, Storybook; Python: Flask, Django; Royal Navy Design system; Palantir Foundry; WinTAK, C#_
 
 **Contract Developer - Vaultex UK - August 2022 - January 2023**
 
@@ -74,7 +74,9 @@ Developing and supporting the [Royal Navy Design system](https://storybook.desig
 
 Design and build of real-time strategic dashboards that query and visualise data from Palantir foundry API. 
 
-Research the use of HTTP3 for data transfer over lossy satellete comminications
+Research the use of HTTP3 for data transfer over lossy satellete comminications. Build solutions for huge data transfers over lossy satellite connections.
+
+Prototyping and shipping a Furthest on Circle plugin for the WinTAK platform.
 
 My role:
 - Build and unit test React Front End features and defects
